@@ -1,0 +1,10 @@
+C:\Users\milja\source\repos\Tenfore FSAE Rule Static\Tenfore FSAE Rule Static\bin\Debug\Tenfore FSAE Rule Static.exe.config
+C:\Users\milja\source\repos\Tenfore FSAE Rule Static\Tenfore FSAE Rule Static\bin\Debug\Tenfore FSAE Rule Static.exe
+C:\Users\milja\source\repos\Tenfore FSAE Rule Static\Tenfore FSAE Rule Static\bin\Debug\Tenfore FSAE Rule Static.pdb
+C:\Users\milja\source\repos\Tenfore FSAE Rule Static\Tenfore FSAE Rule Static\obj\Debug\Tenfore FSAE Rule Static.csprojAssemblyReference.cache
+C:\Users\milja\source\repos\Tenfore FSAE Rule Static\Tenfore FSAE Rule Static\obj\Debug\Tenfore_FSAE_Rule_Static.Properties.Resources.resources
+C:\Users\milja\source\repos\Tenfore FSAE Rule Static\Tenfore FSAE Rule Static\obj\Debug\Tenfore FSAE Rule Static.csproj.GenerateResource.cache
+C:\Users\milja\source\repos\Tenfore FSAE Rule Static\Tenfore FSAE Rule Static\obj\Debug\Tenfore FSAE Rule Static.csproj.CoreCompileInputs.cache
+C:\Users\milja\source\repos\Tenfore FSAE Rule Static\Tenfore FSAE Rule Static\obj\Debug\Tenfore FSAE Rule Static.exe
+C:\Users\milja\source\repos\Tenfore FSAE Rule Static\Tenfore FSAE Rule Static\obj\Debug\Tenfore FSAE Rule Static.pdb
+C:\Users\milja\source\repos\Tenfore FSAE Rule Static\Tenfore FSAE Rule Static\obj\Debug\Tenfore_FSAE_Rule_Static.ea_sp_osv_box.resources
